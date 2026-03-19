@@ -40,4 +40,4 @@ jobs:
       - name: Step 3 - Link Human to Agent
         run: |
           node scripts/manualLinkHumanToAgent.js --challenge '{"name": "bangram", "description": "bangram AI Agent"}'
-         
+        
